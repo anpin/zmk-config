@@ -19,9 +19,9 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: lily58_left
+    shield: riry58_left
     cmake-args: -DCONFIG_ZMK_DISPLAY=y
   - board: nice_nano_v2
-    shield: lily58_right
+    shield: riry58_right
   - board: nice_nano_v2
     shield: settings_reset
