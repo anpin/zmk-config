@@ -1,0 +1,1 @@
+Tweaked lily58 board to account for broken/rewired pins on my board
