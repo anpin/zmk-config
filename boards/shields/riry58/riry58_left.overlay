@@ -25,6 +25,3 @@
         ;
 };
 
-&left_encoder {
-    status = "okay";
-};
